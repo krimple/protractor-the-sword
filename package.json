@@ -1,0 +1,26 @@
+{
+  "name": "protractor-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "protractor",
+    "debug": "node --inspect-brk ./node_modules/.bin/protractor",
+    "watch": "chokidar 'test/**/*.*' -c 'protractor'",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webdriver": "webdriver-manager update"
+  },
+  "keywords": [],
+  "author": "Ken Rimple<ken.rimple@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^5.3.0"
+  },
+  "dependencies": {
+    "chokidar-cli": "^1.2.0",
+    "fs-extra": "^5.0.0",
+    "moment": "^2.20.1",
+    "requirejs": "^2.3.5",
+    "unroll": "^1.5.0"
+  }
+}
