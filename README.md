@@ -45,4 +45,4 @@ npm run webdriver
 
 ## Resources
 
-This is a support project for a blog entry, [https://chariotsolutions.com/blog/post/simplify-protractor-web-tests-with-async-and-await/](Simplify Protractor Web Tests with Async and Await)
+This is a support project for a blog entry, [https://chariotsolutions.com/blog/post/simplify-protractor-web-tests-with-async-and-await](Simplify Protractor Web Tests with Async and Await)
